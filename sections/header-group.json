@@ -28,10 +28,10 @@
       "settings": {
         "enable_sticky": true,
         "text_size": "text-base",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(270deg, rgba(240, 110, 105, 1), rgba(249, 208, 163, 1) 100%)",
         "text_color": "#ffffff"
       }
     },
