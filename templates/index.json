@@ -116,39 +116,55 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "📌 ¿Qué es Guía Emprende?",
+            "content": "<p>Guía Emprende es un marketplace de productos digitales pensados para ayudarte a empezar tu negocio desde cero: eBooks, guías paso a paso, plantillas, calculadoras y más.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "📌 ¿Los productos son físicos o digitales?",
+            "content": "<p>Todos nuestros productos son 100% digitales. Una vez que realizás la compra, recibís el acceso inmediato por correo para descargarlos y empezar a usarlos.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "📌 ¿Necesito experiencia previa para usar estos productos?",
+            "content": "<p>No. Cada guía está pensada para que puedas emprender aunque empieces desde cero, sin conocimientos técnicos ni inversión grande.</p>"
+          }
+        },
+        "item_bGUAAm": {
+          "type": "item",
+          "settings": {
+            "title": "📌 ¿Puedo vender los productos que haga con estas guías?",
+            "content": "<p>¡Sí! Están diseñados para eso. Aprendés a hacer productos (como budines, barritas, planners, etc.) y también cómo venderlos y ganar dinero.</p>"
+          }
+        },
+        "item_43qBhn": {
+          "type": "item",
+          "settings": {
+            "title": "📌 ¿Cómo recibo el producto después de comprarlo?",
+            "content": "<p>Te llega un mail con el link de descarga. También podés acceder desde tu cuenta en Guía Emprende cuando quieras.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_bGUAAm",
+        "item_43qBhn"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Preguntas Frecuentes",
+        "content": "<p>¿Tenés dudas sobre tu compra o el contenido de los productos?</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
+        "support_hours": "Estamos para ayudarte. Nuestro equipo responde de lunes a viernes de 8 a 20 h.",
+        "answer_time": "Tiempo promedio de respuesta: menos de 24 h",
+        "button_text": "Consultarnos por WhatsApp",
         "button_url": "",
         "text_position": "start",
         "background": "#ffffff",
