@@ -28,7 +28,7 @@
         "heading_KANLjU": {
           "type": "heading",
           "settings": {
-            "text": "¡Aprendé a hacer budines irresistibles y empezá a vender desde casa en solo 24 horas!",
+            "text": "Aprendé a hacer budines irresistibles y empezá a generar entre $600.000 a $800.000 extras al mes",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -37,14 +37,24 @@
         "subheading_yxPRCj": {
           "type": "subheading",
           "settings": {
-            "text": "Más de 15 recetas fáciles y una guía paso a paso para convertir tu cocina en tu primer negocio rentable."
+            "text": ""
+          }
+        },
+        "heading_Pjbq7K": {
+          "type": "heading",
+          "settings": {
+            "text": "Más de 15 recetas fáciles y una guía paso a paso para convertir tu cocina en tu primer negocio rentable.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
         "subheading_AtdrCR",
         "heading_KANLjU",
-        "subheading_yxPRCj"
+        "subheading_yxPRCj",
+        "heading_Pjbq7K"
       ],
       "settings": {
         "full_width": true,
