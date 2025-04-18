@@ -34,6 +34,15 @@
             "gradient": ""
           }
         },
+        "heading_Veypwh": {
+          "type": "heading",
+          "settings": {
+            "text": "🧁 Más de 27 recetas, guías de empaque, precios, y venta por redes incluidas.",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "image_Tq8NtA": {
           "type": "image",
           "settings": {
@@ -53,89 +62,20 @@
             "background": "#0040ff",
             "text_color": ""
           }
-        },
-        "heading_Veypwh": {
-          "type": "heading",
-          "settings": {
-            "text": "Querés:",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
         }
       },
       "block_order": [
         "subheading_nEBBW6",
         "heading_N7dV8P",
+        "heading_Veypwh",
         "image_Tq8NtA",
-        "button_ntpjQz",
-        "heading_Veypwh"
+        "button_ntpjQz"
       ],
       "settings": {
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
         "background": "rgba(0,0,0,0)",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "text_with_icons_F7Rjj7": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_wWTLTK": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
-          }
-        },
-        "item_qMDYTz": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
-          }
-        },
-        "item_t8BTK4": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_wWTLTK",
-        "item_qMDYTz",
-        "item_t8BTK4"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -152,8 +92,8 @@
         "heading_4zaXUW": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "🎯 ¿Te identificás con esto?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -161,7 +101,7 @@
         "richtext_8g6e3f": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<h5>✅ Te gustaría emprender algo real, rentable y fácil de comenzar.</h5><h5>✅ Sabés cocinar pero no sabés cómo convertirlo en un negocio.</h5><h5>✅ Querés algo que puedas vender rápido, con alta demanda y sin complicaciones.</h5><h5>✅ Buscás libertad financiera, horarios flexibles y trabajar desde tu hogar.</h5>"
           }
         }
       },
@@ -411,7 +351,6 @@
   "order": [
     "main",
     "rich_text_hbj76D",
-    "text_with_icons_F7Rjj7",
     "rich_text_XaHQXz",
     "featured_product_MbtM8d",
     "faq_Aftbi9"
