@@ -75,6 +75,106 @@
         "text_color": ""
       }
     },
+    "featured_product_MbtM8d": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_6zaTpT": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_AP8cAe": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_U8CnH4": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_rXiTfz": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_3qtL4g": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_DEw3jy": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_8MYExc": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_9RiUhw": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_prXxtk": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_D4dDTr": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_Q4JjMP": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_6zaTpT",
+        "title_AP8cAe",
+        "badges_U8CnH4",
+        "price_rXiTfz",
+        "rating_3qtL4g",
+        "separator_DEw3jy",
+        "description_8MYExc",
+        "variant_picker_9RiUhw",
+        "quantity_selector_prXxtk",
+        "buy_buttons_D4dDTr",
+        "pickup_availability_Q4JjMP"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "ebook-1",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "faq_Aftbi9": {
       "type": "faq",
       "blocks": {
@@ -163,6 +263,7 @@
   "order": [
     "main",
     "rich_text_CymB3e",
+    "featured_product_MbtM8d",
     "faq_Aftbi9"
   ]
 }
