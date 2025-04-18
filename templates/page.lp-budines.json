@@ -140,7 +140,7 @@
         "text_8w3AcY": {
           "type": "text",
           "settings": {
-            "text": "<p>Recetario para hacer budines riquisimos que se venden prácticamente solos. </p>"
+            "text": "<p>Recetario para hacer 27 budines riquisimos que se venden prácticamente solos. </p>"
           }
         },
         "offer_UWXALd": {
@@ -151,7 +151,7 @@
             "icon": "picto-gift",
             "icon_width": 24,
             "title": "Recibí 8 libros digitales para tu emprendimiento",
-            "content": "<p></p><ul><li>Cómo comenzar  tu emprendimiento de comida casera</li><li>Guía de Costos y Rentabilidad</li><li>Vende por WhatsApp</li><li>Vende por Instagram</li><li>12 recetas de Muffins que venden</li><li>Toppings y Coberturas que aumentan las ventas</li><li>Cómo empaquetar los budines y muffins</li></ul>",
+            "content": "<p><br/>Con esto vas <strong>aprender a</strong>:<br/></p><ul><li>Cómo comenzar tu <strong>emprendimiento </strong>de comida casera</li><li>Guía de <strong>Costos </strong>y <strong>Rentabilidad</strong></li><li>Cómo vender por <strong>WhatsApp</strong></li><li>Cómo vender por <strong>Instagram</strong></li><li><strong>12 recetas</strong> de Muffins que venden</li><li><strong>Toppings </strong>y<strong> Coberturas </strong>que aumentan las ventas</li><li>Cómo <strong>empaquetar </strong>los budines y muffins</li></ul>",
             "background": "#eaf2ed",
             "text_color": "#00a341"
           }
@@ -209,7 +209,7 @@
             "icon_width": 24,
             "title": "Pagá con MercadoPago o Tarjeta de Debito/Crédito",
             "content": "",
-            "background": "#efefef",
+            "background": "#f1f1f1",
             "text_color": "#7c8880"
           }
         }
@@ -254,7 +254,7 @@
           "type": "item",
           "settings": {
             "title": "📌 ¿Qué incluye esta oferta?",
-            "content": "<p>Te llevás <strong>8 productos digitales</strong>: recetarios de budines y muffins, guías de empaques, toppings, costos, marketing por Instagram y WhatsApp, y cómo lanzar tu emprendimiento desde cero.</p>"
+            "content": "<p>Te llevás <strong>8 productos digitales</strong>: recetarios de budines y muffins, guías de empaques, toppings, costos, marketing por Instagram y WhatsApp, y cómo lanzar tu emprendimiento desde cero. Con esto vas a aprender:</p>"
           }
         },
         "item_HF6Jzp": {
