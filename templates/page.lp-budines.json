@@ -131,6 +131,12 @@
             "heading_tag": "h2"
           }
         },
+        "price_rXiTfz": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
         "text_8w3AcY": {
           "type": "text",
           "settings": {
@@ -153,12 +159,6 @@
         "badges_U8CnH4": {
           "type": "badges",
           "settings": {}
-        },
-        "price_rXiTfz": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating_3qtL4g": {
           "type": "rating",
@@ -218,10 +218,10 @@
         "vendor_6zaTpT",
         "offer_M8Hhnx",
         "title_AP8cAe",
+        "price_rXiTfz",
         "text_8w3AcY",
         "offer_UWXALd",
         "badges_U8CnH4",
-        "price_rXiTfz",
         "rating_3qtL4g",
         "separator_DEw3jy",
         "offer_JKCdei",
