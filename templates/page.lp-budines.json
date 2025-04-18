@@ -121,12 +121,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description_8MYExc": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "offer_JKCdei": {
           "type": "offer",
           "settings": {
@@ -138,6 +132,12 @@
             "content": "",
             "background": "#f2eaea",
             "text_color": "#f83a3a"
+          }
+        },
+        "description_8MYExc": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
           }
         },
         "offer_UWXALd": {
@@ -186,8 +186,8 @@
         "price_rXiTfz",
         "rating_3qtL4g",
         "separator_DEw3jy",
-        "description_8MYExc",
         "offer_JKCdei",
+        "description_8MYExc",
         "offer_UWXALd",
         "buy_buttons_D4dDTr",
         "offer_HUK4wm"
