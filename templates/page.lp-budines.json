@@ -34,15 +34,6 @@
             "gradient": ""
           }
         },
-        "heading_Veypwh": {
-          "type": "heading",
-          "settings": {
-            "text": "¿Te gustaría empezar un negocio con poco dinero desde tu casa?",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
         "image_Tq8NtA": {
           "type": "image",
           "settings": {
@@ -62,14 +53,43 @@
             "background": "#0040ff",
             "text_color": ""
           }
+        },
+        "heading_Veypwh": {
+          "type": "heading",
+          "settings": {
+            "text": "¿Querés empezar un negocio con poco dinero desde tu casa?",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "heading_bLM3bc": {
+          "type": "heading",
+          "settings": {
+            "text": "¿Te gusta cocinar pero no sabés cómo convertirlo en un negocio?",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "heading_9Y6YTm": {
+          "type": "heading",
+          "settings": {
+            "text": "¿Te gusta cocinar pero no sabés cómo convertirlo en un negocio?",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
         }
       },
       "block_order": [
         "subheading_nEBBW6",
         "heading_N7dV8P",
-        "heading_Veypwh",
         "image_Tq8NtA",
-        "button_ntpjQz"
+        "button_ntpjQz",
+        "heading_Veypwh",
+        "heading_bLM3bc",
+        "heading_9Y6YTm"
       ],
       "settings": {
         "full_width": true,
