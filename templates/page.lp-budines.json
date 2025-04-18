@@ -81,35 +81,67 @@
         "item_nyR4Q3": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "📌 ¿Qué incluye esta oferta?",
+            "content": "<p>Te llevás <strong>8 productos digitales</strong>: recetarios de budines y muffins, guías de empaques, toppings, costos, marketing por Instagram y WhatsApp, y cómo lanzar tu emprendimiento desde cero.</p>"
           }
         },
         "item_HF6Jzp": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "📌 ¿Es solo un recetario o también enseña a vender?",
+            "content": "<p>¡Las dos cosas! No solo aprendés a preparar budines, también te enseñamos cómo presentarlos, ponerles precio y venderlos por redes, paso a paso.</p>"
           }
         },
         "item_BzHa3p": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "📌 ¿Tengo que tener experiencia previa?",
+            "content": "<p>Para nada. Está pensado para que cualquiera pueda arrancar desde cero, incluso si nunca vendiste nada antes ni sabés cocinar perfecto.</p>"
+          }
+        },
+        "item_XjpDz7": {
+          "type": "item",
+          "settings": {
+            "title": "📌 ¿Es material digital o físico?",
+            "content": "<p>Todo es 100% digital. Accedés al instante por email para descargarlo y usarlo desde tu celular, compu o imprimirlo si querés.</p>"
+          }
+        },
+        "item_in8Rhn": {
+          "type": "item",
+          "settings": {
+            "title": "📌 ¿Puedo vender lo que aprendo a hacer con estas guías?",
+            "content": "<p>¡Sí! Vas a poder hacer y vender budines caseros, muffins y más con recetas probadas + estrategias de venta que funcionan.</p>"
+          }
+        },
+        "item_HDBANa": {
+          "type": "item",
+          "settings": {
+            "title": "📌 ¿Cuánto tiempo tengo acceso?",
+            "content": "<p>Una vez que lo comprás, el acceso es <strong>ilimitado</strong>. Descargás los archivos y los usás cuando quieras.</p>"
+          }
+        },
+        "item_ijPHxV": {
+          "type": "item",
+          "settings": {
+            "title": "📌 ¿Qué formas de pago aceptan?",
+            "content": "<p>Podés pagar con <strong>tarjeta de crédito, débito o Mercado Pago</strong>. También aceptamos <strong>transferencia bancaria</strong> en Argentina.</p>"
           }
         }
       },
       "block_order": [
         "item_nyR4Q3",
         "item_HF6Jzp",
-        "item_BzHa3p"
+        "item_BzHa3p",
+        "item_XjpDz7",
+        "item_in8Rhn",
+        "item_HDBANa",
+        "item_ijPHxV"
       ],
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "🧁 Preguntas Frecuentes 🤔",
+        "content": "<p>Resolvemos todas tus dudas</p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
