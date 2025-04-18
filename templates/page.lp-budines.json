@@ -164,6 +164,12 @@
             "payment_button_text_color": ""
           }
         },
+        "text_bp8qPT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pagá con MercadoPago y/o Tarjeta de Débito y Crédito</p>"
+          }
+        },
         "offer_HUK4wm": {
           "type": "offer",
           "settings": {
@@ -190,18 +196,19 @@
         "offer_JKCdei",
         "offer_UWXALd",
         "buy_buttons_D4dDTr",
+        "text_bp8qPT",
         "offer_HUK4wm"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "product": "ebook-1",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
+        "mobile_media_size": "contained",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
