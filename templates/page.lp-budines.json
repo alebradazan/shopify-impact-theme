@@ -119,7 +119,7 @@
             "icon_position": "aligned",
             "icon": "picto-like",
             "icon_width": 24,
-            "title": "3542 clientes felices empezaron a emprender",
+            "title": "3542 clientes felices empezaron a emprender 🥰",
             "content": "",
             "background": "#f7f4e5",
             "text_color": "#efaa42"
@@ -140,7 +140,7 @@
         "text_8w3AcY": {
           "type": "text",
           "settings": {
-            "text": "<p>Recetario para hacer 27 budines riquisimos que se venden prácticamente solos. </p>"
+            "text": "<p>Recetario para hacer <strong>27 budines riquisimos</strong> que se <strong>venden prácticamente solos</strong>. </p>"
           }
         },
         "offer_UWXALd": {
@@ -151,7 +151,7 @@
             "icon": "picto-gift",
             "icon_width": 24,
             "title": "Recibí 8 libros digitales para tu emprendimiento",
-            "content": "<p><br/>Con esto vas <strong>aprender a</strong>:<br/></p><ul><li>Cómo comenzar tu <strong>emprendimiento </strong>de comida casera</li><li>Guía de <strong>Costos </strong>y <strong>Rentabilidad</strong></li><li>Cómo vender por <strong>WhatsApp</strong></li><li>Cómo vender por <strong>Instagram</strong></li><li><strong>12 recetas</strong> de Muffins que venden</li><li><strong>Toppings </strong>y<strong> Coberturas </strong>que aumentan las ventas</li><li>Cómo <strong>empaquetar </strong>los budines y muffins</li></ul>",
+            "content": "<p><br/>Con esto vas <strong>aprender a</strong>:<br/></p><ul><li>Cómo comenzar tu <strong>emprendimiento </strong>de comida casera</li><li>Guía de <strong>Costos </strong>y <strong>Rentabilidad</strong></li><li><strong>Cómo vender </strong>por <strong>WhatsApp</strong></li><li><strong>Cómo vender</strong> por <strong>Instagram</strong></li><li><strong>12 recetas</strong> de Muffins que venden</li><li><strong>Toppings </strong>y<strong> Coberturas </strong>que aumentan las ventas</li><li>Cómo <strong>empaquetar </strong>los budines y muffins</li></ul>",
             "background": "#eaf2ed",
             "text_color": "#00a341"
           }
@@ -173,7 +173,7 @@
         "offer_JKCdei": {
           "type": "offer",
           "settings": {
-            "text_alignment": "start",
+            "text_alignment": "center",
             "icon_position": "aligned",
             "icon": "picto-percent",
             "icon_width": 24,
