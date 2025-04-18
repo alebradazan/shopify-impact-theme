@@ -57,25 +57,7 @@
         "heading_Veypwh": {
           "type": "heading",
           "settings": {
-            "text": "¿Querés empezar un negocio con poco dinero desde tu casa?",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "heading_bLM3bc": {
-          "type": "heading",
-          "settings": {
-            "text": "¿Te gusta cocinar pero no sabés cómo convertirlo en un negocio?",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "heading_9Y6YTm": {
-          "type": "heading",
-          "settings": {
-            "text": "¿Te gusta cocinar pero no sabés cómo convertirlo en un negocio?",
+            "text": "Querés:",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -87,9 +69,7 @@
         "heading_N7dV8P",
         "image_Tq8NtA",
         "button_ntpjQz",
-        "heading_Veypwh",
-        "heading_bLM3bc",
-        "heading_9Y6YTm"
+        "heading_Veypwh"
       ],
       "settings": {
         "full_width": true,
@@ -208,10 +188,6 @@
             "liquid": "<style>\nhtml,body{\nscroll-behavior:smooth;\n}\n</style>\n<section id=\"featured-product\">\n  <!-- contenido destacado del producto -->\n</section>"
           }
         },
-        "vendor_6zaTpT": {
-          "type": "vendor",
-          "settings": {}
-        },
         "offer_M8Hhnx": {
           "type": "offer",
           "settings": {
@@ -316,7 +292,6 @@
       },
       "block_order": [
         "liquid_JgkTe9",
-        "vendor_6zaTpT",
         "offer_M8Hhnx",
         "title_AP8cAe",
         "price_rXiTfz",
