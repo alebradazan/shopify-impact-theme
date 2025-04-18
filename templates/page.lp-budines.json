@@ -28,7 +28,7 @@
         "heading_KANLjU": {
           "type": "heading",
           "settings": {
-            "text": "Aprendé a hacer budines irresistibles y empezá a generar entre $600.000 a $800.000 extras al mes",
+            "text": "Aprendé a hacer budines irresistibles y empezá a generar entre $300.000 a $500.000 pesos extra por semana",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -43,10 +43,19 @@
         "heading_Pjbq7K": {
           "type": "heading",
           "settings": {
-            "text": "Más de 15 recetas fáciles y una guía paso a paso para convertir tu cocina en tu primer negocio rentable.",
+            "text": "Más de 20 recetas fáciles y una guía paso a paso para convertir tu cocina en tu primer negocio rentable.",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "image_MwHCa4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Book_Mockup.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
           }
         }
       },
@@ -54,7 +63,8 @@
         "subheading_AtdrCR",
         "heading_KANLjU",
         "subheading_yxPRCj",
-        "heading_Pjbq7K"
+        "heading_Pjbq7K",
+        "image_MwHCa4"
       ],
       "settings": {
         "full_width": true,
