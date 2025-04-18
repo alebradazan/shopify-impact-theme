@@ -38,7 +38,7 @@
           "type": "heading",
           "settings": {
             "text": "Te gustaría empezar un negocio con poco dinero desde tu casa? Vendé budines caseros, sanos y ricos.",
-            "heading_tag": "h3",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -298,8 +298,8 @@
         "title": "🧁 Preguntas Frecuentes 🤔",
         "content": "<p>Resolvemos todas tus dudas</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
