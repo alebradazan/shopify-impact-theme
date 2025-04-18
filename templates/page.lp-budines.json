@@ -123,6 +123,12 @@
             "icon_color": ""
           }
         },
+        "liquid_d6NfwQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .containerAb7xF3 {\n    display: flex;\n    align-items: center;\n    background: linear-gradient(90deg, #b29eff, #d39fff);\n    padding: 5px 15px;\n    border-radius: 6px;\n    font-family: Arial, sans-serif;\n    font-size: 14px;\n    color: white;\n    font-weight: bold;\n  }\n\n  .avatarsWrapper9JuY2 {\n    display: flex;\n    margin-right: 10px;\n  }\n\n  .avatarImgS3k8Ly {\n    width: 24px;\n    height: 24px;\n    border-radius: 16px;\n    border: 2px solid white;\n    margin-left: -8px;\n  }\n\n  .avatarImgS3k8Ly:first-child {\n    margin-left: 0;\n  }\n</style>\n</head>\n<body class=\"bodyClass7Zx4N9\">\n\n<div class=\"containerAb7xF3\">\n  <div class=\"avatarsWrapper9JuY2\">\n    <img src=\"https://randomuser.me/api/portraits/women/65.jpg\" alt=\"Customer 1\" class=\"avatarImgS3k8Ly\">\n    <img src=\"https://randomuser.me/api/portraits/men/66.jpg\" alt=\"Customer 2\" class=\"avatarImgS3k8Ly\">\n    <img src=\"https://randomuser.me/api/portraits/women/67.jpg\" alt=\"Customer 3\" class=\"avatarImgS3k8Ly\">\n  </div>\n  <span>1,000,000+ HAPPY CUSTOMERS</span>\n</div>\n\n</body>"
+          }
+        },
         "icon_Kkfj9k": {
           "type": "icon",
           "settings": {
@@ -140,6 +146,7 @@
         "heading_GTzkGE",
         "liquid_YmEhYL",
         "icon_cKdwja",
+        "liquid_d6NfwQ",
         "icon_Kkfj9k"
       ],
       "settings": {
