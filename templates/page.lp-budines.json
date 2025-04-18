@@ -112,13 +112,35 @@
           "settings": {
             "liquid": "<div style=\"font-size: 18px; line-height: 1.6; text-align: left;\">\n✅ <strong>Desarrollarás</strong> una nueva habilidad que podrás convertir en un <strong>ingreso constante</strong>.<br><br>\n\n✅ <strong>Invertirás poco</strong> para recibir mucho creando barritas con <strong>ingredientes accesibles</strong>.<br><br>\n\n✅ <strong>Ahorrarás tiempo</strong> con recetas fáciles que te permitirán <strong>generar ingresos rápido</strong> y sin frustraciones.<br><br>\n\n✅ <strong>Sabrás</strong> cómo destacar tus productos para <strong>atraer clientes</strong>.<br><br>\n\n✅ <strong>Aprenderás</strong> a presentar y empaquetar tus barritas <strong>como un profesional</strong>.<br><br>\n\n✅ <strong>Podrás</strong> hacer snacks saludables y ricos <strong>para tus hijos</strong>, fáciles y perfectos para la escuela.<br>\n</div>"
           }
+        },
+        "icon_cKdwja": {
+          "type": "icon",
+          "settings": {
+            "icon": "picto-like",
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": ""
+          }
+        },
+        "icon_Kkfj9k": {
+          "type": "icon",
+          "settings": {
+            "icon": "picto-like",
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": ""
+          }
         }
       },
       "block_order": [
         "heading_7yihk6",
         "liquid_WWVzfE",
         "heading_GTzkGE",
-        "liquid_YmEhYL"
+        "liquid_YmEhYL",
+        "icon_cKdwja",
+        "icon_Kkfj9k"
       ],
       "settings": {
         "full_width": true,
