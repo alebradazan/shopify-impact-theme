@@ -111,10 +111,10 @@
         "image_Tq8NtA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sin_titulo_Grafico_4.jpg",
+            "image": "shopify://shop_images/Sin_titulo_Grafico.png",
             "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
+            "max_width": 720,
+            "mobile_max_width": 600
           }
         },
         "button_ntpjQz": {
