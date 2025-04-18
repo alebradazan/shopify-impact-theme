@@ -78,10 +78,6 @@
     "featured_product_MbtM8d": {
       "type": "featured-product",
       "blocks": {
-        "vendor_6zaTpT": {
-          "type": "vendor",
-          "settings": {}
-        },
         "offer_M8Hhnx": {
           "type": "offer",
           "settings": {
@@ -179,7 +175,6 @@
         }
       },
       "block_order": [
-        "vendor_6zaTpT",
         "offer_M8Hhnx",
         "title_AP8cAe",
         "badges_U8CnH4",
