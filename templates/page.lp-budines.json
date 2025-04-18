@@ -42,87 +42,43 @@
             "text_color": "",
             "gradient": ""
           }
-        }
-      },
-      "block_order": [
-        "subheading_AtdrCR",
-        "heading_KANLjU",
-        "heading_Pjbq7K"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "#f6fee9",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_z6C8hJ": {
-      "type": "rich-text",
-      "blocks": {
-        "image_UWanHB": {
+        },
+        "image_KtKzGg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Sin_titulo_Grafico_2.jpg",
-            "width_mode": "full_width",
+            "image": "shopify://shop_images/Sintitulo_Grafico_2.jpg",
+            "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400
           }
         },
-        "button_ETkqEH": {
+        "button_ajyXda": {
           "type": "button",
           "settings": {
             "style": "fill",
             "size": "xl",
             "text": "Comprá ahora!",
-            "url": "",
+            "url": "#featured-product",
             "background": "#0040ff",
             "text_color": ""
           }
         }
       },
       "block_order": [
-        "image_UWanHB",
-        "button_ETkqEH"
+        "subheading_AtdrCR",
+        "heading_KANLjU",
+        "heading_Pjbq7K",
+        "image_KtKzGg",
+        "button_ajyXda"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "",
+        "background": "rgba(0,0,0,0)",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "video_Ywp8Cm": {
-      "type": "video",
-      "blocks": {
-        "play_r7jcw8": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_XpD9hW": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_r7jcw8",
-        "heading_XpD9hW"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "featured_product_MbtM8d": {
@@ -362,8 +318,6 @@
   "order": [
     "main",
     "rich_text_CymB3e",
-    "rich_text_z6C8hJ",
-    "video_Ywp8Cm",
     "featured_product_MbtM8d",
     "faq_Aftbi9"
   ]
