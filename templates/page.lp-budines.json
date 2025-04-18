@@ -16,71 +16,6 @@
         "content_width": "80ch"
       }
     },
-    "rich_text_CymB3e": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_AtdrCR": {
-          "type": "subheading",
-          "settings": {
-            "text": "¿QUERÉS EMPRENDER DESDE TU CASA?"
-          }
-        },
-        "heading_KANLjU": {
-          "type": "heading",
-          "settings": {
-            "text": "Vende budines riquísimos y generá entre $300.000 a $500.000 en menos de una semana",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "heading_Pjbq7K": {
-          "type": "heading",
-          "settings": {
-            "text": "¿Te gustaría empezar un negocio con poco dinero desde tu casa?",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "image_KtKzGg": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sin_titulo_Grafico_3.jpg",
-            "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "button_ajyXda": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "Comprá ahora!",
-            "url": "#featured-product",
-            "background": "#0040ff",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_AtdrCR",
-        "heading_KANLjU",
-        "heading_Pjbq7K",
-        "image_KtKzGg",
-        "button_ajyXda"
-      ],
-      "custom_css": [],
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "rgba(0,0,0,0)",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_hbj76D": {
       "type": "rich-text",
       "blocks": {
@@ -480,7 +415,6 @@
   },
   "order": [
     "main",
-    "rich_text_CymB3e",
     "rich_text_hbj76D",
     "text_with_icons_F7Rjj7",
     "rich_text_XaHQXz",
