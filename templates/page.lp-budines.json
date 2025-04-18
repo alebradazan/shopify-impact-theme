@@ -236,7 +236,7 @@
         "liquid_JgkTe9": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\nhtml,body{\nscroll-behavior:smooth;\n}\n</style>"
+            "liquid": "<style>\nhtml,body{\nscroll-behavior:smooth;\n}\n</style>\n<section id=\"featured-product\">\n  <!-- contenido destacado del producto -->\n</section>"
           }
         }
       },
