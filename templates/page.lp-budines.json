@@ -92,16 +92,16 @@
             "gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)"
           }
         },
-        "richtext_8g6e3f": {
-          "type": "richtext",
+        "liquid_BMBrA7": {
+          "type": "liquid",
           "settings": {
-            "content": "<h5>✅ Te frusta no encontrar formas fáciles de aprender algo nuevo desde la comodidad de tu casa.<br/><br/>✅ Pensás que emprender es complicado o requiere demasiada inversión<br/><br/>✅ Querés generar ingresos extras pero no sabés por dónde empezar.<br/><br/>✅ Estás cansado de no encontrar snacks saludables y deliciosos que puedas disfrutar<br/><br/>✅ Te gustaría sorprender a tu familia y amigos con recetas irresistibles<br/><br/>✅ No te alcanza la plata al final del mes pero tenés poco tiempo para un trabajo nuevo que te lleve la mitad del día</h5>"
+            "liquid": "✅ <strong>Te frustra no encontrar formas fáciles</strong> de aprender algo nuevo desde la comodidad de tu casa.<br><br>\n✅ <strong>Pensás que emprender es complicado</strong> o requiere demasiada inversión.<br><br>\n✅ <strong>Querés generar ingresos extras</strong> pero no sabés por dónde empezar.<br><br>\n✅ <strong>Estás cansado de no encontrar snacks saludables</strong> y deliciosos que puedas disfrutar.<br><br>\n✅ <strong>Te gustaría sorprender a tu familia</strong> y amigos con recetas irresistibles.<br><br>\n✅ <strong>No te alcanza la plata al final del mes</strong> pero tenés poco tiempo para un trabajo nuevo que te lleve la mitad del día.<br>"
           }
         }
       },
       "block_order": [
         "heading_4zaXUW",
-        "richtext_8g6e3f"
+        "liquid_BMBrA7"
       ],
       "settings": {
         "full_width": true,
