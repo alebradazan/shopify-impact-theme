@@ -42,24 +42,12 @@
             "text_color": "",
             "gradient": ""
           }
-        },
-        "button_DMqCJ7": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "Button text",
-            "url": "#featured-product",
-            "background": "",
-            "text_color": ""
-          }
         }
       },
       "block_order": [
         "subheading_AtdrCR",
         "heading_KANLjU",
-        "heading_Pjbq7K",
-        "button_DMqCJ7"
+        "heading_Pjbq7K"
       ],
       "settings": {
         "full_width": true,
@@ -81,10 +69,22 @@
             "max_width": 600,
             "mobile_max_width": 400
           }
+        },
+        "button_ETkqEH": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Comprá ahora!",
+            "url": "",
+            "background": "#0040ff",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
-        "image_UWanHB"
+        "image_UWanHB",
+        "button_ETkqEH"
       ],
       "settings": {
         "full_width": true,
