@@ -83,30 +83,23 @@
     "rich_text_XaHQXz": {
       "type": "rich-text",
       "blocks": {
-        "subheading_cQWBVW": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_4zaXUW": {
           "type": "heading",
           "settings": {
-            "text": "🎯 ¿Te identificás con esto?",
+            "text": "Este libro es para vos si...",
             "heading_tag": "h2",
             "text_color": "",
-            "gradient": ""
+            "gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)"
           }
         },
         "richtext_8g6e3f": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>✅ Te gustaría emprender algo real, rentable y fácil de comenzar.</h5><h5>✅ Sabés cocinar pero no sabés cómo convertirlo en un negocio.</h5><h5>✅ Querés algo que puedas vender rápido, con alta demanda y sin complicaciones.</h5><h5>✅ Buscás libertad financiera, horarios flexibles y trabajar desde tu hogar.</h5>"
+            "content": "<p>✅ Te frusta no encontrar formas fáciles de aprender algo nuevo desde la comodidad de tu casa.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_cQWBVW",
         "heading_4zaXUW",
         "richtext_8g6e3f"
       ],
@@ -114,6 +107,51 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_UNk3yE": {
+      "type": "multi-column",
+      "blocks": {
+        "item_MpYkQ4": {
+          "type": "item",
+          "settings": {
+            "column_size": "2",
+            "title": "✅ Te frusta no encontrar formas fáciles de aprender algo nuevo desde la comodidad de tu casa.",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XEFBNF": {
+          "type": "item",
+          "settings": {
+            "column_size": "2",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_MpYkQ4",
+        "item_XEFBNF"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -352,6 +390,7 @@
     "main",
     "rich_text_hbj76D",
     "rich_text_XaHQXz",
+    "multi_column_UNk3yE",
     "featured_product_MbtM8d",
     "faq_Aftbi9"
   ]
