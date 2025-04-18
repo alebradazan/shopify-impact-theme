@@ -75,6 +75,36 @@
         "text_color": ""
       }
     },
+    "video_Ywp8Cm": {
+      "type": "video",
+      "blocks": {
+        "play_r7jcw8": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_XpD9hW": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_r7jcw8",
+        "heading_XpD9hW"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured_product_MbtM8d": {
       "type": "featured-product",
       "blocks": {
@@ -99,6 +129,12 @@
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "text_8w3AcY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Recetario para hacer budines riquisimos que se venden prácticamente solos. <br/><br/>Además de <strong>regalo solo por hoy </strong>te llevas los siguientes libros digitales<strong>:</strong></p><p><strong>🎁 Cómo comenzar  tu emprendimiento de comida casera<br/>🎁 Vende por WhatsApp<br/>🎁 Vende por Instagram<br/>🎁 Cómo comenzar  tu emprendimiento de comida casera<br/>🎁 Cómo comenzar  tu emprendimiento de comida casera<br/>🎁 Cómo comenzar  tu emprendimiento de comida casera</strong></p>"
           }
         },
         "badges_U8CnH4": {
@@ -182,6 +218,7 @@
         "vendor_6zaTpT",
         "offer_M8Hhnx",
         "title_AP8cAe",
+        "text_8w3AcY",
         "badges_U8CnH4",
         "price_rXiTfz",
         "rating_3qtL4g",
@@ -298,6 +335,7 @@
   "order": [
     "main",
     "rich_text_CymB3e",
+    "video_Ywp8Cm",
     "featured_product_MbtM8d",
     "faq_Aftbi9"
   ]
