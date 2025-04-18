@@ -49,7 +49,7 @@
             "style": "fill",
             "size": "xl",
             "text": "Button text",
-            "url": "",
+            "url": "#featured-product",
             "background": "",
             "text_color": ""
           }
@@ -236,7 +236,7 @@
         "liquid_JgkTe9": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<style>\nhtml,body{\nscroll-behavior:smooth;\n}\n</style>"
           }
         }
       },
