@@ -34,15 +34,6 @@
             "gradient": ""
           }
         },
-        "image_MwHCa4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Sin_titulo_Grafico_2.jpg",
-            "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
         "heading_Pjbq7K": {
           "type": "heading",
           "settings": {
@@ -51,13 +42,49 @@
             "text_color": "",
             "gradient": ""
           }
+        },
+        "button_DMqCJ7": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Button text",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
         "subheading_AtdrCR",
         "heading_KANLjU",
-        "image_MwHCa4",
-        "heading_Pjbq7K"
+        "heading_Pjbq7K",
+        "button_DMqCJ7"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "#f6fee9",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_z6C8hJ": {
+      "type": "rich-text",
+      "blocks": {
+        "image_UWanHB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sin_titulo_Grafico_2.jpg",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "image_UWanHB"
       ],
       "settings": {
         "full_width": true,
@@ -205,6 +232,12 @@
             "background": "#f1f1f1",
             "text_color": "#7c8880"
           }
+        },
+        "liquid_JgkTe9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         }
       },
       "block_order": [
@@ -220,7 +253,8 @@
         "offer_JKCdei",
         "description_8MYExc",
         "buy_buttons_D4dDTr",
-        "offer_HUK4wm"
+        "offer_HUK4wm",
+        "liquid_JgkTe9"
       ],
       "settings": {
         "full_width": false,
@@ -328,6 +362,7 @@
   "order": [
     "main",
     "rich_text_CymB3e",
+    "rich_text_z6C8hJ",
     "video_Ywp8Cm",
     "featured_product_MbtM8d",
     "faq_Aftbi9"
