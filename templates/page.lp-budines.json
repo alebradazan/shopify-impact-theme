@@ -19,10 +19,13 @@
     "rich_text_hbj76D": {
       "type": "rich-text",
       "blocks": {
-        "subheading_nEBBW6": {
-          "type": "subheading",
+        "heading_Veypwh": {
+          "type": "heading",
           "settings": {
-            "text": "¿QUERÉS EMPRENDER DESDE TU CASA? 💸"
+            "text": "¿Querés emprender desde tu casa? 💸",
+            "heading_tag": "h4",
+            "text_color": "#5e5e5e",
+            "gradient": ""
           }
         },
         "heading_N7dV8P": {
@@ -31,15 +34,15 @@
             "text": "Vende budines y ganá más de $300.000 en menos de una semana",
             "heading_tag": "h1",
             "text_color": "",
-            "gradient": ""
+            "gradient": "linear-gradient(127deg, rgba(0, 61, 255, 1) 11%, rgba(99, 136, 254, 1) 81%)"
           }
         },
-        "heading_Veypwh": {
+        "heading_AmKgjr": {
           "type": "heading",
           "settings": {
             "text": "🧁 Más de 27 recetas, guías de empaque, precios, y venta por redes incluidas.",
             "heading_tag": "h4",
-            "text_color": "",
+            "text_color": "#363636",
             "gradient": ""
           }
         },
@@ -65,9 +68,9 @@
         }
       },
       "block_order": [
-        "subheading_nEBBW6",
-        "heading_N7dV8P",
         "heading_Veypwh",
+        "heading_N7dV8P",
+        "heading_AmKgjr",
         "image_Tq8NtA",
         "button_ntpjQz"
       ],
