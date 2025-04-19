@@ -170,8 +170,9 @@
           "settings": {
             "image": "shopify://shop_images/Emprende.png",
             "icon": "none",
+            "custom_icon": "shopify://shop_images/guia_emprende_logo.svg",
             "icon_width": 48,
-            "title": "Heading 1",
+            "title": "Cómo Comenzar tu Negocio",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
@@ -181,7 +182,7 @@
             "image": "shopify://shop_images/VendeWSPkup.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 2",
+            "title": "Vende por WhatsApp",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
