@@ -110,7 +110,7 @@
         "heading_wazXqb": {
           "type": "heading",
           "settings": {
-            "text": "Aprendé a preparar y vender budines caseros irresistibles desde tu casa, con pasos claros, prácticos y 100% accionables:",
+            "text": "Aprendé a preparar y vender budines caseros desde tu casa:",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
@@ -179,19 +179,6 @@
             "text": "<p>Recetario para hacer <strong>27 budines riquisimos</strong> que se <strong>venden prácticamente solos</strong>. </p>"
           }
         },
-        "offer_UWXALd": {
-          "type": "offer",
-          "settings": {
-            "text_alignment": "start",
-            "icon_position": "aligned",
-            "icon": "picto-gift",
-            "icon_width": 24,
-            "title": "Recibí 8 libros digitales para tu emprendimiento",
-            "content": "<p><br/>Con esto vas <strong>aprender a</strong>:<br/></p><ul><li>Cómo comenzar tu <strong>emprendimiento </strong>de comida casera</li><li>Guía de <strong>Costos </strong>y <strong>Rentabilidad</strong></li><li><strong>Cómo vender </strong>por <strong>WhatsApp</strong></li><li><strong>Cómo vender</strong> por <strong>Instagram</strong></li><li><strong>12 recetas</strong> de Muffins que venden</li><li><strong>Toppings </strong>y<strong> Coberturas </strong>que aumentan las ventas</li><li>Cómo <strong>empaquetar </strong>los budines y muffins</li></ul>",
-            "background": "#eaf2ed",
-            "text_color": "#00a341"
-          }
-        },
         "badges_U8CnH4": {
           "type": "badges",
           "settings": {}
@@ -201,10 +188,6 @@
           "settings": {
             "show_empty": false
           }
-        },
-        "separator_DEw3jy": {
-          "type": "separator",
-          "settings": {}
         },
         "offer_JKCdei": {
           "type": "offer",
@@ -248,6 +231,23 @@
             "background": "#f1f1f1",
             "text_color": "#7c8880"
           }
+        },
+        "separator_DEw3jy": {
+          "type": "separator",
+          "settings": {}
+        },
+        "offer_UWXALd": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-gift",
+            "icon_width": 24,
+            "title": "Recibí 8 libros digitales para tu emprendimiento",
+            "content": "<p><br/>Con esto vas <strong>aprender a</strong>:<br/></p><ul><li>Cómo comenzar tu <strong>emprendimiento </strong>de comida casera</li><li>Guía de <strong>Costos </strong>y <strong>Rentabilidad</strong></li><li><strong>Cómo vender </strong>por <strong>WhatsApp</strong></li><li><strong>Cómo vender</strong> por <strong>Instagram</strong></li><li><strong>12 recetas</strong> de Muffins que venden</li><li><strong>Toppings </strong>y<strong> Coberturas </strong>que aumentan las ventas</li><li>Cómo <strong>empaquetar </strong>los budines y muffins</li></ul>",
+            "background": "#eaf2ed",
+            "text_color": "#00a341"
+          }
         }
       },
       "block_order": [
@@ -256,14 +256,14 @@
         "title_AP8cAe",
         "price_rXiTfz",
         "text_8w3AcY",
-        "offer_UWXALd",
         "badges_U8CnH4",
         "rating_3qtL4g",
-        "separator_DEw3jy",
         "offer_JKCdei",
         "description_8MYExc",
         "buy_buttons_D4dDTr",
-        "offer_HUK4wm"
+        "offer_HUK4wm",
+        "separator_DEw3jy",
+        "offer_UWXALd"
       ],
       "settings": {
         "full_width": false,
@@ -281,6 +281,52 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_QzBVkk": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_x3pHTQ": {
+          "type": "subheading",
+          "settings": {
+            "text": "PERO COMPRANDO AHORA TE LLEVAS DE REGALO:"
+          }
+        },
+        "liquid_9eGf6b": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-size: 3rem; line-height: 1;\">🎁</div>"
+          }
+        },
+        "heading_yFNtj9": {
+          "type": "heading",
+          "settings": {
+            "text": "Bonus",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_pqG6dm": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_x3pHTQ",
+        "liquid_9eGf6b",
+        "heading_yFNtj9",
+        "richtext_pqG6dm"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "faq_Aftbi9": {
@@ -373,6 +419,7 @@
     "rich_text_hbj76D",
     "rich_text_xz9Ay4",
     "featured_product_MbtM8d",
+    "rich_text_QzBVkk",
     "faq_Aftbi9"
   ]
 }
