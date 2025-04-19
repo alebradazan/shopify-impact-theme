@@ -178,7 +178,7 @@
         "liquid_Mr9HAp": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p style=\"font-size: 1.2rem; color: #333; text-align: center;\">\n  ¡Sí! te llevás <strong>2 de nuestros libros digitales más vendidos de regalo.</strong><br>\n  Para que no solo aprendas a hacer budines irresistibles, <br>¡sino también a venderlos con éxito!\n</p>"
+            "liquid": "<p style=\"font-size: 1.2rem; color: #333; text-align: center;\">\n  ¡Sí! te llevás <strong>2 de nuestros libros digitales más vendidos de regalo.</strong><br><br>\n  Para que no solo aprendas a hacer budines irresistibles, <br>¡sino también a venderlos con éxito!\n</p>"
           }
         }
       },
