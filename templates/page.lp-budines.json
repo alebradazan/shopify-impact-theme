@@ -124,8 +124,28 @@
           "settings": {
             "liquid": "<!-- Caja gris -->\n<div style=\"background-color: #f4f4f4; padding: 40px 30px; border-radius: 32px; max-width: 960px; display: flex; flex-direction: column; gap: 30px; text-align: left;\">\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">💰</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Generá ingresos desde tu casa</h3>\n      <p style=\"margin: 5px 0 0;\">Convertí una receta casera en una fuente de ingresos rentable y constante. Sin experiencia previa, sin complicaciones.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">🧁</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Recetas fáciles y deliciosas</h3>\n      <p style=\"margin: 5px 0 0;\">Incluye budines y muffins de todos los estilos, para que vendas o sorprendas en casa. Sin técnicas complicadas.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">⏱️</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Lanzá rápido, sin perder tiempo</h3>\n      <p style=\"margin: 5px 0 0;\">Con nuestras plantillas y guías, podés estar vendiendo en menos de 24 horas. Ideal para personas con poco tiempo.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">📦</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Empaques que enamoran</h3>\n      <p style=\"margin: 5px 0 0;\">Aprendé a presentar tus budines como un producto premium: packaging atractivo, etiquetas, y detalles que venden más.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">👨‍👩‍👧</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Compartí, disfrutá y vendé</h3>\n      <p style=\"margin: 5px 0 0;\">Una actividad ideal para hacer sola o en familia. Disfrutá del proceso mientras generás ingresos y aprendés algo nuevo.</p>\n    </div>\n  </div>\n\n</div>"
           }
-        },
-        "heading_TMh4aN": {
+        }
+      },
+      "block_order": [
+        "heading_GTzkGE",
+        "liquid_WWVzfE",
+        "heading_rMaFWx",
+        "heading_wazXqb",
+        "liquid_HPfXeF"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_cxcUNg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_y4NEYn": {
           "type": "heading",
           "settings": {
             "text": "De regalo con tu compra:",
@@ -134,7 +154,7 @@
             "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
           }
         },
-        "image_hecnVb": {
+        "image_AaRynG": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Imagenes_Promocionales_Landing_Page.jpg",
@@ -142,16 +162,18 @@
             "max_width": 600,
             "mobile_max_width": 400
           }
+        },
+        "liquid_gxntdQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-size: 18px; line-height: 1.6; text-align: left;\">\n✅ <strong>Te frustra no encontrar formas fáciles</strong> de aprender algo nuevo desde la comodidad de tu casa.<br><br>\n✅ <strong>Pensás que emprender es complicado</strong> o requiere demasiada inversión.<br><br>\n✅ <strong>Querés generar ingresos extras</strong> pero no sabés por dónde empezar.<br><br>\n✅ <strong>Estás cansado de no encontrar snacks saludables</strong> y deliciosos que puedas disfrutar.<br><br>\n✅ <strong>Te gustaría sorprender a tu familia</strong> y amigos con recetas irresistibles.<br><br>\n✅ <strong>No te alcanza la plata al final del mes</strong> pero tenés poco tiempo para un trabajo nuevo que te lleve la mitad del día.<br><br><br>"
+          }
         }
       },
       "block_order": [
-        "heading_GTzkGE",
-        "liquid_WWVzfE",
-        "heading_rMaFWx",
-        "heading_wazXqb",
-        "liquid_HPfXeF",
-        "heading_TMh4aN",
-        "image_hecnVb"
+        "heading_y4NEYn",
+        "image_AaRynG",
+        "liquid_gxntdQ"
       ],
       "settings": {
         "full_width": true,
@@ -478,6 +500,7 @@
     "main",
     "rich_text_hbj76D",
     "rich_text_xz9Ay4",
+    "rich_text_cxcUNg",
     "images_with_text_scrolling_nHGnyL",
     "featured_product_MbtM8d",
     "rich_text_QzBVkk",
