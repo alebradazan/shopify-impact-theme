@@ -131,7 +131,7 @@
             "style": "fill",
             "size": "xl",
             "text": "Quiero emprender ahora!",
-            "url": "",
+            "url": "#featured-product",
             "background": "#0040ff",
             "text_color": ""
           }
@@ -219,7 +219,7 @@
             "style": "fill",
             "size": "xl",
             "text": "¡Quiero emprender ahora!",
-            "url": "",
+            "url": "#featured-product",
             "background": "#0040ff",
             "text_color": ""
           }
