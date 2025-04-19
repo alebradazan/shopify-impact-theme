@@ -396,16 +396,26 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Bonus_3.jpg",
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        },
+        "image_Td3Cfi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bonus_4_14d78bdc-09b2-47d4-bc5f-aad8a590ca2f.jpg",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
           }
         }
       },
       "block_order": [
         "liquid_9eGf6b",
         "heading_yFNtj9",
-        "image_GiAqLf"
+        "image_GiAqLf",
+        "image_Td3Cfi"
       ],
       "settings": {
         "full_width": true,
