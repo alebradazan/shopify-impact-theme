@@ -148,7 +148,7 @@
         "heading_y4NEYn": {
           "type": "heading",
           "settings": {
-            "text": "De regalo con tu compra:",
+            "text": "Además adquirís:",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
@@ -157,22 +157,32 @@
         "image_AaRynG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Imagenes_Promocionales_Landing_Page.jpg",
+            "image": "shopify://shop_images/Imagenes_Promocionales_Landing_Page_1.jpg",
             "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400
           }
         },
+        "heading_idE74y": {
+          "type": "heading",
+          "settings": {
+            "text": "Llevate 2 de nuestros libros digitales más vendidos",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
+          }
+        },
         "liquid_gxntdQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p style=\"font-size: 18px; color: #333;\">\n    Llevate <strong>gratis</strong> 2 de nuestros libros digitales más vendidos para que no solo aprendas a hacer budines irresistibles, ¡sino también a venderlos con éxito!\n  </p>\n\n  <p style=\"font-size: 18px; margin-top: 20px;\">\n    📘 <strong>Guía para comenzar tu emprendimiento de comida casera</strong><br>\n    Un paso a paso claro para transformar tus recetas en ingresos reales desde tu casa. Aprendé cómo empezar a vender sin experiencia ni complicaciones.\n  </p>\n\n  <p style=\"font-size: 18px; margin-top: 20px;\">\n    💬 <strong>Guía exprés para vender por WhatsApp</strong><br>\n    Mensajes listos para copiar y pegar, respuestas automáticas y estrategias que multiplican tus ventas sin salir de tu casa.\n  </p>\n\n  <p style=\"font-size: 18px; margin-top: 25px;\">\n    ✅ <strong>Valor real:</strong> más de $40 USD<br>\n    🛍️ <strong>Hoy:</strong> incluidos sin costo en tu compra\n  </p>\n</div>"
+            "liquid": "<p style=\"font-size: 1.4REM; color: #333;\">\nPara que no solo aprendas a hacer budines irresistibles, ¡sino también a venderlos con éxito!\n  </p>"
           }
         }
       },
       "block_order": [
         "heading_y4NEYn",
         "image_AaRynG",
+        "heading_idE74y",
         "liquid_gxntdQ"
       ],
       "settings": {
@@ -191,21 +201,20 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Emprende.png",
-            "icon": "none",
-            "custom_icon": "shopify://shop_images/guia_emprende_logo.svg",
-            "icon_width": 48,
-            "title": "Cómo Comenzar tu Negocio",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "icon": "picto-money",
+            "icon_width": 32,
+            "title": "Cómo Comenzar tu negocio",
+            "content": "<p>Un paso a paso claro para transformar tus recetas en ingresos reales desde tu casa. Aprendé cómo empezar a vender sin experiencia ni complicaciones.</p>"
           }
         },
         "item_BFBVFr": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/VendeWSPkup.png",
-            "icon": "none",
-            "icon_width": 48,
+            "icon": "picto-chat",
+            "icon_width": 32,
             "title": "Vende por WhatsApp",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Mensajes listos para copiar y pegar, respuestas automáticas y estrategias que multiplican tus ventas sin salir de tu casa.nnouncements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -219,7 +228,7 @@
         "show_counter": true,
         "desktop_image_effect": "reveal",
         "image_position": "end",
-        "background": "",
+        "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
