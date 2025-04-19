@@ -124,6 +124,17 @@
           "settings": {
             "liquid": "<!-- Caja gris -->\n<div style=\"background-color: #f4f4f4; padding: 40px 30px; border-radius: 32px; max-width: 960px; display: flex; flex-direction: column; gap: 30px; text-align: left;\">\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">💰</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Generá ingresos desde tu casa</h3>\n      <p style=\"margin: 5px 0 0;\">Convertí una receta casera en una fuente de ingresos rentable y constante. Sin experiencia previa, sin complicaciones.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">🧁</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Recetas fáciles y deliciosas</h3>\n      <p style=\"margin: 5px 0 0;\">Incluye budines y muffins de todos los estilos, para que vendas o sorprendas en casa. Sin técnicas complicadas.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">⏱️</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Lanzá rápido, sin perder tiempo</h3>\n      <p style=\"margin: 5px 0 0;\">Con nuestras plantillas y guías, podés estar vendiendo en menos de 24 horas. Ideal para personas con poco tiempo.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">📦</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Empaques que enamoran</h3>\n      <p style=\"margin: 5px 0 0;\">Aprendé a presentar tus budines como un producto premium: packaging atractivo, etiquetas, y detalles que venden más.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">👨‍👩‍👧</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Compartí, disfrutá y vendé</h3>\n      <p style=\"margin: 5px 0 0;\">Una actividad ideal para hacer sola o en familia. Disfrutá del proceso mientras generás ingresos y aprendés algo nuevo.</p>\n    </div>\n  </div>\n\n</div>"
           }
+        },
+        "button_rFTg4x": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Quiero emprender ahora!",
+            "url": "",
+            "background": "#0040ff",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
@@ -131,7 +142,8 @@
         "liquid_WWVzfE",
         "heading_rMaFWx",
         "heading_wazXqb",
-        "liquid_HPfXeF"
+        "liquid_HPfXeF",
+        "button_rFTg4x"
       ],
       "settings": {
         "full_width": true,
@@ -166,7 +178,7 @@
         "liquid_gxntdQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: inline-block; background-color: #fae8e8; color: #ef4444; padding: 0.4rem 1rem; border-radius: 9999px; font-weight: 600;\">\n  VALOR NORMAL $68.000\n</div>"
+            "liquid": "<div style=\"display: inline-block; background-color: #fae8e8; color: #ef4444; padding: 0.4rem 1rem; border-radius: 9999px; font-weight: 600;  text-align: center;\">\n  VALOR NORMAL $68.000\n</div>"
           }
         },
         "liquid_NygneN": {
@@ -188,6 +200,33 @@
         "liquid_gxntdQ",
         "liquid_NygneN",
         "liquid_Mr9HAp"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_WzKJqX": {
+      "type": "rich-text",
+      "blocks": {
+        "button_rDKyxC": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "¡Quiero emprender ahora!",
+            "url": "",
+            "background": "#0040ff",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_rDKyxC"
       ],
       "settings": {
         "full_width": true,
@@ -520,6 +559,7 @@
     "rich_text_hbj76D",
     "rich_text_xz9Ay4",
     "rich_text_cxcUNg",
+    "rich_text_WzKJqX",
     "images_with_text_scrolling_nHGnyL",
     "featured_product_MbtM8d",
     "rich_text_QzBVkk",
