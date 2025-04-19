@@ -166,7 +166,7 @@
         "liquid_gxntdQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: inline-block; background-color: #fae8e8; color: #ef4444; padding: 0.4rem 1rem; border-radius: 9999px; font-weight: 600; font-size: 1rem; font-family: sans-serif;\">\n  VALOR NORMAL $68.000\n</div>"
+            "liquid": "<div style=\"display: inline-block; background-color: #fae8e8; color: #ef4444; padding: 0.4rem 1rem; border-radius: 9999px; font-weight: 600;\">\n  VALOR NORMAL $68.000\n</div>"
           }
         },
         "liquid_NygneN": {
