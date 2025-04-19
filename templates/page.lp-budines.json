@@ -166,7 +166,13 @@
         "liquid_gxntdQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"line-height: 1.4;\">\n  <div style=\"color: #979797; font-size: 1.1rem; font-weight: 800;\">\n    VALOR NORMAL: <span style=\"color: #d0021b; font-weight: 900;\">$68.000</span>\n  </div>\n  <div style=\"color: #06CC00; font-size: 1.6rem; font-weight: 700; margin-top: 0.3rem;\">\n    CON TU PROMO HOY:\n  </div>\n  <div style=\"color: #06CC00; font-size: 1.8rem; font-weight: 700; margin-top: -0.3rem;\">\n¡TE LO LLEVÁS GRATIS!\n </div>\n</div>"
+            "liquid": "<div style=\"display: inline-block; background-color: #fae8e8; color: #ef4444; padding: 0.4rem 1rem; border-radius: 9999px; font-weight: 600; font-size: 1rem; font-family: sans-serif;\">\n  VALOR NORMAL $68.000\n</div>"
+          }
+        },
+        "liquid_NygneN": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"color: #06CC00; font-size: 1.6rem; font-weight: 700; margin-top: 0.3rem;\">\n    CON TU PROMO HOY:\n  </div>\n  <div style=\"color: #06CC00; font-size: 1.8rem; font-weight: 700; margin-top: -0.3rem;\">\n¡TE LO LLEVÁS GRATIS!\n </div>\n</div>"
           }
         },
         "liquid_Mr9HAp": {
@@ -180,6 +186,7 @@
         "heading_y4NEYn",
         "image_AaRynG",
         "liquid_gxntdQ",
+        "liquid_NygneN",
         "liquid_Mr9HAp"
       ],
       "settings": {
