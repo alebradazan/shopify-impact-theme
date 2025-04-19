@@ -401,7 +401,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": ""
       }
