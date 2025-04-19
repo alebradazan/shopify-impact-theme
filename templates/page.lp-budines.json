@@ -168,6 +168,7 @@
         "item_yyENw3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Emprende.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 1",
@@ -177,6 +178,7 @@
         "item_BFBVFr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/VendeWSPkup.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 2",
