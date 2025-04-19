@@ -377,10 +377,10 @@
     "rich_text_QzBVkk": {
       "type": "rich-text",
       "blocks": {
-        "subheading_x3pHTQ": {
-          "type": "subheading",
+        "liquid_yJ9NGy": {
+          "type": "liquid",
           "settings": {
-            "text": "PERO COMPRANDO AHORA TE LLEVAS DE REGALO:"
+            "liquid": "<div style=\"display: inline-flex; align-items: center; background-color: #1f0f0f; border-radius: 999px; padding: 6px 16px; color: white; font-weight: 600; font-size: 14px; font-family: sans-serif;\">\n  <span style=\"width: 12px; height: 12px; background-color: red; border-radius: 50%; margin-right: 10px; animation: parpadeo 1s infinite ease-in-out;\"></span>\nPERO COMPRANDO AHORA TE LLEVAS DE REGALO:\n</div>\n\n<style>\n  @keyframes parpadeo {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0.3; }\n  }\n</style>"
           }
         },
         "liquid_9eGf6b": {
@@ -406,7 +406,7 @@
         }
       },
       "block_order": [
-        "subheading_x3pHTQ",
+        "liquid_yJ9NGy",
         "liquid_9eGf6b",
         "heading_yFNtj9",
         "richtext_pqG6dm"
