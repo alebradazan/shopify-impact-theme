@@ -452,13 +452,23 @@
             "max_width": 1000,
             "mobile_max_width": 600
           }
+        },
+        "image_88FebN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bonus5.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
         }
       },
       "block_order": [
         "liquid_9eGf6b",
         "heading_yFNtj9",
         "image_GiAqLf",
-        "image_Td3Cfi"
+        "image_Td3Cfi",
+        "image_88FebN"
       ],
       "settings": {
         "full_width": true,
@@ -486,33 +496,6 @@
       },
       "block_order": [
         "button_3BgGjf"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_34Rpii": {
-      "type": "rich-text",
-      "blocks": {
-        "button_TD4PDH": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "¡Quiero emprender ahora!",
-            "url": "#featured-product",
-            "background": "#0040ff",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "button_TD4PDH"
       ],
       "settings": {
         "full_width": true,
@@ -605,6 +588,33 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "rich_text_34Rpii": {
+      "type": "rich-text",
+      "blocks": {
+        "button_TD4PDH": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "¡Quiero emprender ahora!",
+            "url": "#featured-product",
+            "background": "#0040ff",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_TD4PDH"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
