@@ -391,11 +391,21 @@
             "text_color": "",
             "gradient": "linear-gradient(270deg, rgba(240, 110, 105, 1), rgba(249, 208, 163, 1) 100%)"
           }
+        },
+        "image_GiAqLf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bonus_3.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
         }
       },
       "block_order": [
         "liquid_9eGf6b",
-        "heading_yFNtj9"
+        "heading_yFNtj9",
+        "image_GiAqLf"
       ],
       "settings": {
         "full_width": true,
