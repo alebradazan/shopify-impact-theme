@@ -166,22 +166,22 @@
         "liquid_gxntdQ": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"text-align: center; font-family: sans-serif; line-height: 1.4;\">\n  <div style=\"color: #333; font-size: 1.3rem; font-weight: 500;\">\n    VALOR NORMAL: <span style=\"color: #d0021b; font-weight: 700;\">$68.000</span>\n  </div>\n  <div style=\"color: #0a8f2d; font-size: 1.6rem; font-weight: 700; margin-top: 0.3rem;\">\n    CON TU PROMO HOY: <span style=\"text-decoration: underline;\">¡TE LO LLEVÁS GRATIS!</span>\n  </div>\n</div>"
+            "liquid": "<div style=\"line-height: 1.4;\">\n  <div style=\"color: #333; font-size: 1.3rem; font-weight: 500;\">\n    VALOR NORMAL: <span style=\"color: #d0021b; font-weight: 900;\">$68.000</span>\n  </div>\n  <div style=\"color: #0a8f2d; font-size: 1.6rem; font-weight: 700; margin-top: 0.3rem;\">\n    CON TU PROMO HOY:\n  </div>\n</div>"
           }
         },
         "heading_UWfTBH": {
           "type": "heading",
           "settings": {
-            "text": "Si! te llevas 2 de nuestros libros digitales más vendidos de regalo",
+            "text": "¡TE LO LLEVÁS GRATIS!",
             "heading_tag": "h2",
             "text_color": "",
-            "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
+            "gradient": "linear-gradient(308deg, rgba(6, 204, 0, 1) 11%, rgba(18, 233, 11, 1) 100%)"
           }
         },
         "liquid_Mr9HAp": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p style=\"font-size: 1.4REM; color: #333;\">\nPara que no solo aprendas a hacer budines irresistibles, ¡sino también a venderlos con éxito!\n  </p>"
+            "liquid": "<p style=\"font-size: 1.4REM; color: #333;\">¡Si! te llevas 2 de nuestros libros digitales más vendidos de regalo.\nPara que no solo aprendas a hacer budines irresistibles, ¡sino también a venderlos con éxito!\n  </p>"
           }
         }
       },
