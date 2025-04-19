@@ -157,19 +157,10 @@
         "image_AaRynG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Imagenes_Promocionales_Landing_Page_1.jpg",
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "image_hKmVLy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2_Bonus.jpg",
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
+            "image": "shopify://shop_images/2_Bonus_f6c6ce07-1e51-4084-80f5-6e56f4e55444.jpg",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
           }
         },
         "heading_idE74y": {
@@ -191,7 +182,6 @@
       "block_order": [
         "heading_y4NEYn",
         "image_AaRynG",
-        "image_hKmVLy",
         "heading_idE74y",
         "liquid_gxntdQ"
       ],
