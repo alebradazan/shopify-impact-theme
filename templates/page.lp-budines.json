@@ -163,16 +163,22 @@
             "mobile_max_width": 600
           }
         },
-        "heading_idE74y": {
+        "liquid_gxntdQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"text-align: center; font-family: sans-serif; line-height: 1.4;\">\n  <div style=\"color: #333; font-size: 1.3rem; font-weight: 500;\">\n    VALOR NORMAL: <span style=\"color: #d0021b; font-weight: 700;\">$68.000</span>\n  </div>\n  <div style=\"color: #0a8f2d; font-size: 1.6rem; font-weight: 700; margin-top: 0.3rem;\">\n    CON TU PROMO HOY: <span style=\"text-decoration: underline;\">¡TE LO LLEVÁS GRATIS!</span>\n  </div>\n</div>"
+          }
+        },
+        "heading_UWfTBH": {
           "type": "heading",
           "settings": {
-            "text": "Llevate 2 de nuestros libros digitales más vendidos",
+            "text": "Si! te llevas 2 de nuestros libros digitales más vendidos de regalo",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
           }
         },
-        "liquid_gxntdQ": {
+        "liquid_Mr9HAp": {
           "type": "liquid",
           "settings": {
             "liquid": "<p style=\"font-size: 1.4REM; color: #333;\">\nPara que no solo aprendas a hacer budines irresistibles, ¡sino también a venderlos con éxito!\n  </p>"
@@ -182,8 +188,9 @@
       "block_order": [
         "heading_y4NEYn",
         "image_AaRynG",
-        "heading_idE74y",
-        "liquid_gxntdQ"
+        "liquid_gxntdQ",
+        "heading_UWfTBH",
+        "liquid_Mr9HAp"
       ],
       "settings": {
         "full_width": true,
