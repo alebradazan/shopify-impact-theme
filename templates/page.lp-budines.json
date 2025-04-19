@@ -124,6 +124,24 @@
           "settings": {
             "liquid": "<!-- Caja gris -->\n<div style=\"background-color: #f4f4f4; padding: 40px 30px; border-radius: 32px; max-width: 960px; display: flex; flex-direction: column; gap: 30px; text-align: left;\">\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">💰</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Generá ingresos desde tu casa</h3>\n      <p style=\"margin: 5px 0 0;\">Convertí una receta casera en una fuente de ingresos rentable y constante. Sin experiencia previa, sin complicaciones.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">🧁</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Recetas fáciles y deliciosas</h3>\n      <p style=\"margin: 5px 0 0;\">Incluye budines y muffins de todos los estilos, para que vendas o sorprendas en casa. Sin técnicas complicadas.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">⏱️</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Lanzá rápido, sin perder tiempo</h3>\n      <p style=\"margin: 5px 0 0;\">Con nuestras plantillas y guías, podés estar vendiendo en menos de 24 horas. Ideal para personas con poco tiempo.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">📦</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Empaques que enamoran</h3>\n      <p style=\"margin: 5px 0 0;\">Aprendé a presentar tus budines como un producto premium: packaging atractivo, etiquetas, y detalles que venden más.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">👨‍👩‍👧</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Compartí, disfrutá y vendé</h3>\n      <p style=\"margin: 5px 0 0;\">Una actividad ideal para hacer sola o en familia. Disfrutá del proceso mientras generás ingresos y aprendés algo nuevo.</p>\n    </div>\n  </div>\n\n</div>"
           }
+        },
+        "heading_TMh4aN": {
+          "type": "heading",
+          "settings": {
+            "text": "De regalo con tu compra:",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
+          }
+        },
+        "image_hecnVb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Imagenes_Promocionales_Landing_Page.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
         }
       },
       "block_order": [
@@ -131,7 +149,9 @@
         "liquid_WWVzfE",
         "heading_rMaFWx",
         "heading_wazXqb",
-        "liquid_HPfXeF"
+        "liquid_HPfXeF",
+        "heading_TMh4aN",
+        "image_hecnVb"
       ],
       "settings": {
         "full_width": true,
