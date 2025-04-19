@@ -83,13 +83,13 @@
     "rich_text_xz9Ay4": {
       "type": "rich-text",
       "blocks": {
-        "heading_7yihk6": {
+        "heading_GTzkGE": {
           "type": "heading",
           "settings": {
             "text": "Este libro es para vos si...",
             "heading_tag": "h2",
             "text_color": "",
-            "gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)"
+            "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
           }
         },
         "liquid_WWVzfE": {
@@ -98,7 +98,7 @@
             "liquid": "<div style=\"font-size: 18px; line-height: 1.6; text-align: left;\">\n✅ <strong>Te frustra no encontrar formas fáciles</strong> de aprender algo nuevo desde la comodidad de tu casa.<br><br>\n✅ <strong>Pensás que emprender es complicado</strong> o requiere demasiada inversión.<br><br>\n✅ <strong>Querés generar ingresos extras</strong> pero no sabés por dónde empezar.<br><br>\n✅ <strong>Estás cansado de no encontrar snacks saludables</strong> y deliciosos que puedas disfrutar.<br><br>\n✅ <strong>Te gustaría sorprender a tu familia</strong> y amigos con recetas irresistibles.<br><br>\n✅ <strong>No te alcanza la plata al final del mes</strong> pero tenés poco tiempo para un trabajo nuevo que te lleve la mitad del día.<br>"
           }
         },
-        "heading_GTzkGE": {
+        "heading_wazXqb": {
           "type": "heading",
           "settings": {
             "text": "No te pierdas esta oportunidad, donde vas a aprender:",
@@ -107,23 +107,45 @@
             "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
           }
         },
+        "image_kDKyGV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/0kKCme7MCl.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "liquid_YmEhYL": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"font-size: 18px; line-height: 1.6; text-align: left;\">\n✅ <strong>Desarrollarás</strong> una nueva habilidad que podrás convertir en un <strong>ingreso constante</strong>.<br><br>\n\n✅ <strong>Invertirás poco</strong> para recibir mucho creando barritas con <strong>ingredientes accesibles</strong>.<br><br>\n\n✅ <strong>Ahorrarás tiempo</strong> con recetas fáciles que te permitirán <strong>generar ingresos rápido</strong> y sin frustraciones.<br><br>\n\n✅ <strong>Sabrás</strong> cómo destacar tus productos para <strong>atraer clientes</strong>.<br><br>\n\n✅ <strong>Aprenderás</strong> a presentar y empaquetar tus barritas <strong>como un profesional</strong>.<br><br>\n\n✅ <strong>Podrás</strong> hacer snacks saludables y ricos <strong>para tus hijos</strong>, fáciles y perfectos para la escuela.<br>\n</div>"
+            "liquid": "<div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; text-align: left;\">\n\n  <!-- Título -->\n  <p style=\"color: #888; font-weight: 600; font-size: 16px; margin-bottom: 8px;\">Esto es lo que vas a lograr</p>\n  <h2 style=\"font-size: 32px; font-weight: 800; margin-bottom: 40px; max-width: 700px;\">\n    Aprendé a preparar y vender budines caseros irresistibles desde tu casa, con pasos claros, prácticos y 100% accionables:\n  </h2>\n\n  <!-- Caja gris -->\n  <div style=\"background-color: #f4f4f4; padding: 40px 30px; border-radius: 16px; max-width: 960px; display: flex; flex-direction: column; gap: 30px;\">\n\n    <div style=\"display: flex; align-items: flex-start; gap: 20px;\">\n      <div style=\"font-size: 60px; line-height: 1;\">💰</div>\n      <div>\n        <h3 style=\"margin: 0; font-size: 22px;\">Generá ingresos desde tu casa</h3>\n        <p style=\"margin: 5px 0 0;\">Convertí una receta casera en una fuente de ingresos rentable y constante. Sin experiencia previa, sin complicaciones.</p>\n      </div>\n    </div>\n\n    <div style=\"display: flex; align-items: flex-start; gap: 20px;\">\n      <div style=\"font-size: 60px; line-height: 1;\">🧁</div>\n      <div>\n        <h3 style=\"margin: 0; font-size: 22px;\">Recetas fáciles y deliciosas</h3>\n        <p style=\"margin: 5px 0 0;\">Incluye budines y muffins de todos los estilos, para que vendas o sorprendas en casa. Sin técnicas complicadas.</p>\n      </div>\n    </div>\n\n    <div style=\"display: flex; align-items: flex-start; gap: 20px;\">\n      <div style=\"font-size: 60px; line-height: 1;\">⏱️</div>\n      <div>\n        <h3 style=\"margin: 0; font-size: 22px;\">Lanzá rápido, sin perder tiempo</h3>\n        <p style=\"margin: 5px 0 0;\">Con nuestras plantillas y guías, podés estar vendiendo en menos de 24 horas. Ideal para personas con poco tiempo.</p>\n      </div>\n    </div>\n\n    <div style=\"display: flex; align-items: flex-start; gap: 20px;\">\n      <div style=\"font-size: 60px; line-height: 1;\">📦</div>\n      <div>\n        <h3 style=\"margin: 0; font-size: 22px;\">Empaques que enamoran</h3>\n        <p style=\"margin: 5px 0 0;\">Aprendé a presentar tus budines como un producto premium: packaging atractivo, etiquetas, y detalles que venden más.</p>\n      </div>\n    </div>\n\n    <div style=\"display: flex; align-items: flex-start; gap: 20px;\">\n      <div style=\"font-size: 60px; line-height: 1;\">👨‍👩‍👧</div>\n      <div>\n        <h3 style=\"margin: 0; font-size: 22px;\">Compartí, disfrutá y vendé</h3>\n        <p style=\"margin: 5px 0 0;\">Una actividad ideal para hacer sola o en familia. Disfrutá del proceso mientras generás ingresos y aprendés algo nuevo.</p>\n      </div>\n    </div>\n\n  </div>\n</div>"
           }
         }
       },
       "block_order": [
-        "heading_7yihk6",
-        "liquid_WWVzfE",
         "heading_GTzkGE",
+        "liquid_WWVzfE",
+        "heading_wazXqb",
+        "image_kDKyGV",
         "liquid_YmEhYL"
       ],
       "settings": {
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_html_fCAEqJ": {
+      "type": "custom-html",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<div style=\"font-family: sans-serif;\">\n\n  <!-- Título fuera del bloque -->\n  <p style=\"text-align: center; color: #888; font-weight: 600; margin-bottom: 10px;\">Esto es lo que vas a lograr</p>\n  <h2 style=\"text-align: center; font-size: 28px; font-weight: 800; margin-bottom: 40px;\">\n    Aprendé a preparar y vender budines caseros irresistibles desde tu casa, con una guía clara, práctica y paso a paso:\n  </h2>\n\n  <!-- Caja con fondo -->\n  <div style=\"background-color: #f8f8f8; padding: 40px 30px; border-radius: 16px; max-width: 900px; margin: auto;\">\n\n    <!-- Beneficio 1 -->\n    <div style=\"display: flex; align-items: start; gap: 20px; margin-bottom: 30px;\">\n      <img src=\"https://img.icons8.com/emoji/48/000000/money-with-wings.png\" width=\"36\" alt=\"Dinero\">\n      <div>\n        <h4 style=\"margin: 0;\">Generar ingresos desde tu casa</h4>\n        <p style=\"margin: 5px 0 0;\">Transformá una receta simple en una fuente de ingresos rápida, sin necesidad de experiencia previa ni grandes inversiones.</p>\n      </div>\n    </div>\n\n    <!-- Beneficio 2 -->\n    <div style=\"display: flex; align-items: start; gap: 20px; margin-bottom: 30px;\">\n      <img src=\"https://img.icons8.com/emoji/48/000000/cooking.png\" width=\"36\" alt=\"Cocina\">\n      <div>\n        <h4 style=\"margin: 0;\">Recetas fáciles y deliciosas</h4>\n        <p style=\"margin: 5px 0 0;\">Accedé a una colección curada de budines y muffins caseros que podés hacer con ingredientes simples y resultados profesionales.</p>\n      </div>\n    </div>\n\n    <!-- Beneficio 3 -->\n    <div style=\"display: flex; align-items: start; gap: 20px; margin-bottom: 30px;\">\n      <img src=\"https://img.icons8.com/emoji/48/000000/clock-emoji.png\" width=\"36\" alt=\"Tiempo\">\n      <div>\n        <h4 style=\"margin: 0;\">Ahorrá tiempo y arrancá rápido</h4>\n        <p style=\"margin: 5px 0 0;\">Con nuestras guías, podés lanzar tu primer producto en 24 horas. Ideal si tenés poco tiempo y necesitás resultados rápidos.</p>\n      </div>\n    </div>\n\n    <!-- Beneficio 4 -->\n    <div style=\"display: flex; align-items: start; gap: 20px; margin-bottom: 30px;\">\n      <img src=\"https://img.icons8.com/emoji/48/000000/package.png\" width=\"36\" alt=\"Empaque\">\n      <div>\n        <h4 style=\"margin: 0;\">Presentación y empaque profesional</h4>\n        <p style=\"margin: 5px 0 0;\">Aprendé cómo presentar tus productos con estilo, usar packaging llamativo y lograr que tus budines destaquen en cualquier vitrina.</p>\n      </div>\n    </div>\n\n    <!-- Beneficio 5 -->\n    <div style=\"display: flex; align-items: start; gap: 20px;\">\n      <img src=\"https://img.icons8.com/emoji/48/000000/family-emoji.png\" width=\"36\" alt=\"Familia\">\n      <div>\n        <h4 style=\"margin: 0;\">Una actividad que podés compartir</h4>\n        <p style=\"margin: 5px 0 0;\">Cociná para vender o también como una experiencia en familia. Perfecto para sorprender, compartir y generar ingresos al mismo tiempo.</p>\n      </div>\n    </div>\n\n  </div>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -362,6 +384,7 @@
     "main",
     "rich_text_hbj76D",
     "rich_text_xz9Ay4",
+    "custom_html_fCAEqJ",
     "featured_product_MbtM8d",
     "faq_Aftbi9"
   ]
