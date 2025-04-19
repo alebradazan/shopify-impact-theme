@@ -149,7 +149,7 @@
           "type": "heading",
           "settings": {
             "text": "Además adquirís:",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": "linear-gradient(308deg, rgba(57, 104, 255, 1) 11%, rgba(2, 62, 254, 1) 100%)"
           }
