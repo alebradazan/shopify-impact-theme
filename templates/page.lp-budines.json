@@ -461,6 +461,15 @@
             "max_width": 600,
             "mobile_max_width": 400
           }
+        },
+        "image_cD9kb3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Bonus6.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
         }
       },
       "block_order": [
@@ -468,7 +477,8 @@
         "heading_yFNtj9",
         "image_GiAqLf",
         "image_Td3Cfi",
-        "image_88FebN"
+        "image_88FebN",
+        "image_cD9kb3"
       ],
       "settings": {
         "full_width": true,
