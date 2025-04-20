@@ -55,6 +55,12 @@
             "mobile_max_width": 600
           }
         },
+        "liquid_38Y6xm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<a href=\"#featured-product\" class=\"cta-shine\">\n    SI! ¡Quiero emprender ahora!\n  </a>"
+          }
+        },
         "button_ntpjQz": {
           "type": "button",
           "settings": {
@@ -72,6 +78,7 @@
         "heading_N7dV8P",
         "heading_AmKgjr",
         "image_Tq8NtA",
+        "liquid_38Y6xm",
         "button_ntpjQz"
       ],
       "settings": {
@@ -124,17 +131,6 @@
           "settings": {
             "liquid": "<!-- Caja gris -->\n<div style=\"background-color: #f4f4f4; padding: 40px 30px; border-radius: 32px; max-width: 960px; display: flex; flex-direction: column; gap: 30px; text-align: left;\">\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">💰</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Generá ingresos desde tu casa</h3>\n      <p style=\"margin: 5px 0 0;\">Convertí una receta casera en una fuente de ingresos rentable y constante. Sin experiencia previa, sin complicaciones.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">🧁</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Recetas fáciles y deliciosas</h3>\n      <p style=\"margin: 5px 0 0;\">Incluye budines y muffins de todos los estilos, para que vendas o sorprendas en casa. Sin técnicas complicadas.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">⏱️</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Lanzá rápido, sin perder tiempo</h3>\n      <p style=\"margin: 5px 0 0;\">Con nuestras plantillas y guías, podés estar vendiendo en menos de 24 horas. Ideal para personas con poco tiempo.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">📦</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Empaques que enamoran</h3>\n      <p style=\"margin: 5px 0 0;\">Aprendé a presentar tus budines como un producto premium: packaging atractivo, etiquetas, y detalles que venden más.</p>\n    </div>\n  </div>\n\n  <div style=\"display: flex; align-items: center; gap: 20px;\">\n    <div style=\"font-size: 3em; line-height: 1;\">👨‍👩‍👧</div>\n    <div>\n      <h3 style=\"margin: 0; font-size: 26px;\">Compartí, disfrutá y vendé</h3>\n      <p style=\"margin: 5px 0 0;\">Una actividad ideal para hacer sola o en familia. Disfrutá del proceso mientras generás ingresos y aprendés algo nuevo.</p>\n    </div>\n  </div>\n\n</div>"
           }
-        },
-        "button_rFTg4x": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "Quiero emprender ahora!",
-            "url": "#featured-product",
-            "background": "#0040ff",
-            "text_color": ""
-          }
         }
       },
       "block_order": [
@@ -142,13 +138,25 @@
         "liquid_WWVzfE",
         "heading_rMaFWx",
         "heading_wazXqb",
-        "liquid_HPfXeF",
-        "button_rFTg4x"
+        "liquid_HPfXeF"
       ],
       "settings": {
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_html_GEepyj": {
+      "type": "custom-html",
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "html": "<style>\n  .cta-shine {\n    position: relative;\n    display: inline-block;\n    padding: 1rem 2rem;\n    font-size: 1.25rem;              /* un poco más grande */\n    font-weight: 700;                /* bold */\n    color: #fff;\n    background: linear-gradient(90deg, #28a745, #7fed6b);\n    border-radius: 9999px;\n    border-bottom: 2px solid #159e3b;        /* stroke abajo */\n    box-shadow: \n      0 4px 0 #159e3b,                      /* stroke sombra */\n      0 6px 8px rgba(0,0,0,0.3);            /* sombra exterior */\n    text-decoration: none;\n    overflow: hidden;\n  }\n  .cta-shine::before {\n    content: '';\n    position: absolute;\n    top: 0; left: -75%;\n    width: 50%; height: 100%;\n    background: rgba(255,255,255,0.3);\n    transform: skewX(-25deg);\n    animation: shine 2s ease-out infinite;\n  }\n  @keyframes shine {\n    0%   { left: -75%; }\n    100% { left: 125%; }\n  }\n</style>\n\n<div style=\"text-align: center; margin: 2rem 0;\">\n  <a href=\"#featured-product\" class=\"cta-shine\">\n    SI! ¡Quiero emprender ahora!\n  </a>\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -190,7 +198,7 @@
         "liquid_Mr9HAp": {
           "type": "liquid",
           "settings": {
-            "liquid": "<p style=\"font-size: 1.2rem; color: #333; text-align: center;\">\n  ¡Sí! te llevás <strong>2 de nuestros libros digitales más vendidos de regalo.</strong><br><br>\n  Para que no solo aprendas a hacer budines irresistibles, <br>¡sino también a venderlos con éxito!\n</p>"
+            "liquid": "<p style=\"font-size: 1.2rem; color: #333; text-align: center;\">\n  ¡Sí! te llevás <strong>2 de nuestros libros digitales más vendidos de regalo.</strong><br><br>\n  Para que no solo aprendas a hacer budines irresistibles, <br>¡sino también a venderlos con éxito!\n</p>\n\n<div style=\"text-align: center; margin: 2rem 0;\">\n  <a href=\"#featured-product\" class=\"cta-shine\">\n    SI! ¡Quiero emprender ahora!\n  </a>\n</div>"
           }
         }
       },
@@ -200,33 +208,6 @@
         "liquid_gxntdQ",
         "liquid_NygneN",
         "liquid_Mr9HAp"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_WzKJqX": {
-      "type": "rich-text",
-      "blocks": {
-        "button_rDKyxC": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "¡Quiero emprender ahora!",
-            "url": "#featured-product",
-            "background": "#0040ff",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "button_rDKyxC"
       ],
       "settings": {
         "full_width": true,
@@ -486,7 +467,7 @@
         "liquid_L9wQqP": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .cta-shine {\n    position: relative;\n    display: inline-block;\n    padding: 1rem 2rem;\n    font-size: 1.25rem;              /* un poco más grande */\n    font-weight: 700;                /* bold */\n    color: #fff;\n    background: linear-gradient(90deg, #28a745, #7fed6b);\n    border-radius: 9999px;\n    border-bottom: 4px solid #159e3b;        /* stroke abajo */\n    box-shadow: \n      0 4px 0 #159e3b,                      /* stroke sombra */\n      0 6px 8px rgba(0,0,0,0.3);            /* sombra exterior */\n    text-decoration: none;\n    overflow: hidden;\n  }\n  .cta-shine::before {\n    content: '';\n    position: absolute;\n    top: 0; left: -75%;\n    width: 50%; height: 100%;\n    background: rgba(255,255,255,0.3);\n    transform: skewX(-25deg);\n    animation: shine 2s ease-out infinite;\n  }\n  @keyframes shine {\n    0%   { left: -75%; }\n    100% { left: 125%; }\n  }\n</style>\n\n<div style=\"text-align: center; margin: 2rem 0;\">\n  <a href=\"#featured-product\" class=\"cta-shine\">\n    ¡Quiero emprender ahora!\n  </a>\n</div>"
+            "liquid": "<style>\n  .cta-shine {\n    position: relative;\n    display: inline-block;\n    padding: 1rem 2rem;\n    font-size: 1.25rem;              /* un poco más grande */\n    font-weight: 700;                /* bold */\n    color: #fff;\n    background: linear-gradient(90deg, #28a745, #7fed6b);\n    border-radius: 9999px;\n    border-bottom: 2px solid #159e3b;        /* stroke abajo */\n    box-shadow: \n      0 4px 0 #159e3b,                      /* stroke sombra */\n      0 6px 8px rgba(0,0,0,0.3);            /* sombra exterior */\n    text-decoration: none;\n    overflow: hidden;\n  }\n  .cta-shine::before {\n    content: '';\n    position: absolute;\n    top: 0; left: -75%;\n    width: 50%; height: 100%;\n    background: rgba(255,255,255,0.3);\n    transform: skewX(-25deg);\n    animation: shine 2s ease-out infinite;\n  }\n  @keyframes shine {\n    0%   { left: -75%; }\n    100% { left: 125%; }\n  }\n</style>\n\n<div style=\"text-align: center; margin: 2rem 0;\">\n  <a href=\"#featured-product\" class=\"cta-shine\">\n    SI! ¡Quiero emprender ahora!\n  </a>\n</div>"
           }
         }
       },
@@ -627,8 +608,8 @@
     "main",
     "rich_text_hbj76D",
     "rich_text_xz9Ay4",
+    "custom_html_GEepyj",
     "rich_text_cxcUNg",
-    "rich_text_WzKJqX",
     "images_with_text_scrolling_nHGnyL",
     "featured_product_MbtM8d",
     "rich_text_QzBVkk",
