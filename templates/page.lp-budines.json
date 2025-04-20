@@ -470,6 +470,24 @@
             "max_width": 600,
             "mobile_max_width": 400
           }
+        },
+        "liquid_UE7wfL": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: inline-block; background-color: #fae8e8; color: #ef4444; padding: 0.4rem 1rem; border-radius: 9999px; font-weight: 600;\">\n  VALOR NORMAL $192.000\n</div>"
+          }
+        },
+        "liquid_qBziJE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"color: #06CC00; font-size: 1.6rem; font-weight: 700; margin-top: 0.3rem;\">\n    COMPRANDO HOY:\n  </div>\n  <div style=\"color: #06CC00; font-size: 1.8rem; font-weight: 700; margin-top: -0.3rem;\">\n¡TE LO LLEVÁS GRATIS!\n </div>\n</div>"
+          }
+        },
+        "liquid_L9wQqP": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .cta-shine {\n    position: relative;\n    display: inline-block;\n    padding: 1rem 2rem;\n    font-size: 1.25rem;              /* un poco más grande */\n    font-weight: 700;                /* bold */\n    color: #fff;\n    background: linear-gradient(90deg, #28a745, #7fed6b);\n    border-radius: 9999px;\n    border-bottom: 4px solid #159e3b;        /* stroke abajo */\n    box-shadow: \n      0 4px 0 #159e3b,                      /* stroke sombra */\n      0 6px 8px rgba(0,0,0,0.3);            /* sombra exterior */\n    text-decoration: none;\n    overflow: hidden;\n  }\n  .cta-shine::before {\n    content: '';\n    position: absolute;\n    top: 0; left: -75%;\n    width: 50%; height: 100%;\n    background: rgba(255,255,255,0.3);\n    transform: skewX(-25deg);\n    animation: shine 2s ease-out infinite;\n  }\n  @keyframes shine {\n    0%   { left: -75%; }\n    100% { left: 125%; }\n  }\n</style>\n\n<div style=\"text-align: center; margin: 2rem 0;\">\n  <a href=\"#featured-product\" class=\"cta-shine\">\n    ¡Quiero emprender ahora!\n  </a>\n</div>"
+          }
         }
       },
       "block_order": [
@@ -478,40 +496,17 @@
         "image_GiAqLf",
         "image_Td3Cfi",
         "image_88FebN",
-        "image_cD9kb3"
+        "image_cD9kb3",
+        "liquid_UE7wfL",
+        "liquid_qBziJE",
+        "liquid_L9wQqP"
       ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
         "background": "#f2f2f2",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_MLyxkV": {
-      "type": "rich-text",
-      "blocks": {
-        "button_3BgGjf": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "¡Quiero emprender ahora!",
-            "url": "#featured-product",
-            "background": "#0040ff",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "button_3BgGjf"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -637,7 +632,6 @@
     "images_with_text_scrolling_nHGnyL",
     "featured_product_MbtM8d",
     "rich_text_QzBVkk",
-    "rich_text_MLyxkV",
     "faq_Aftbi9",
     "rich_text_34Rpii"
   ]
